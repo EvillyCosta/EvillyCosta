@@ -4,12 +4,12 @@
 <br><br>
   
 ```javascript
-      const evilly = {
-        pronouns: "ela" | "dela",
-        learning code: [C, Java],
-        studying: ["BD", "SO", "SQL", "Hardware"],
-      
-       challenge: "website em três meses"
-      }
+                      const evilly = {
+                        pronouns: "ela" | "dela",
+                        learning code: [C, Java],
+                        studying: ["BD", "SO", "SQL", "Hardware"],
+                      
+                       challenge: "website em três meses"
+                      }
 ```
 [![Linkedin: evillycosta](https://img.shields.io/badge/-evillycosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)](https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)
