@@ -6,8 +6,8 @@
 ```javascript
     const evilly = {
       pronouns: "ela" | "dela",
-      learning code: [C, Java],
-      studying: ["BD", "SO", "SQL", "Hardware"],
+      learning code: [C, Java, HTML, CSS],
+      studying: ["POO", "WEB", "Gcloud"],
     
      challenge: "website em três meses"
     }
