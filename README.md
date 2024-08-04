@@ -9,7 +9,7 @@
       learning code: [C, Java, HTML, CSS],
       studying: ["POO", "WEB", "Gcloud"],
     
-     challenge: "website em três meses"
+     challenge: "website with javascript"
     }
 ```
 [![Linkedin: evillycosta](https://img.shields.io/badge/-evillycosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)](https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)
