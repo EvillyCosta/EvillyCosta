@@ -5,7 +5,8 @@
   
 
 <a href="https://github.com/EvillyCosta"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=EvillyCosta&theme=radical&title_color=ff3068" alt="Estatísticas do GitHub"></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvillyCosta&layout=compact&langs_count=6&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvillyCosta&layout=compact&langs_count=6&theme=radical)
+
 
 
 [![Linkedin: evillycosta](https://img.shields.io/badge/-evillycosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)](https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)
