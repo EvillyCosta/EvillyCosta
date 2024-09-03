@@ -13,8 +13,15 @@
   
 
 <a href="https://github.com/EvillyCosta"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=EvillyCosta&theme=radical&title_color=FF0000" alt="Estatísticas do GitHub"></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvillyCosta&layout=compact&langs_count=6&theme=radical&title_color=FF0000)
+## 🛠️ Tech Stack
 
+- 👩‍💻 Programming Languages
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
 [![Linkedin: evillycosta](https://img.shields.io/badge/-evillycosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)](https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)
