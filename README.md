@@ -13,7 +13,7 @@
   
 
 <a href="https://github.com/EvillyCosta"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=EvillyCosta&theme=radical&title_color=FF0000" alt="Estatísticas do GitHub"></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvillyCosta&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvillyCosta&layout=compact&langs_count=6&theme=radical&title_color=FF0000)
 
 
 
