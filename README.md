@@ -1,3 +1,5 @@
+![sky](image1_02.jpg)
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FF0000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello;Welcome+to+my+dev+world+&#x2764" width="70%" />
 <br><br>
@@ -23,5 +25,4 @@
 
 [![Linkedin: evillycosta](https://img.shields.io/badge/-evillycosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)](https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)
 
-![sky](image1_02.jpg)
 
