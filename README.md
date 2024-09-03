@@ -14,8 +14,6 @@
 
 <a href="https://github.com/EvillyCosta"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=EvillyCosta&theme=radical&title_color=FF0000" alt="Estatísticas do GitHub"></a>
 ## 🛠️ Tech Stack
-
-- 👩‍💻 Programming Languages
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
