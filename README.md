@@ -21,6 +21,7 @@
 
 <a href="https://github.com/EvillyCosta"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=EvillyCosta&theme=radical&title_color=FF0000" alt="Estatísticas do GitHub"></a>
 
-
-
 [![Linkedin: evillycosta](https://img.shields.io/badge/-evillycosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)](https://www.linkedin.com/in/evilly-nascimento-costa-0aa13a160/)
+
+![sky](image1_02.jpg)
+
